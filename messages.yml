@@ -1,0 +1,81 @@
+intro1: "(Press ENTER to continue. Press any other key to skip the introduction.)"
+intro2: |
+  A long time ago...
+  ...in a galaxy far, far, away...
+intro3: |
+  A timeless battle rages on.
+  Two opponents face each other, their hands poised and ready for combat.
+  You--a padawan of the Jedi order. Your foe--a Dark Lord of the Sith.
+  
+  In this game of strategy and cunning, there are five choices.
+  Each gesture has its strengths and weaknesses, the outcome uncertain until the very end.
+  
+  Will the Jedi prevail, or succumb to the power of the Sith?
+
+  The ancient ritual begins, each player ready to claim victory or suffer defeat.
+  This is a war that transcends time and space...
+  
+  ...a battle of wills and wits...
+  
+  ...a battle of...
+title: |
+  .______        ______     ______  __  ___
+  |   _  \      /  __  \   /      ||  |/  /
+  |  |_)  |    |  |  |  | |  ,----'|  '  /
+  |      /     |  |  |  | |  |     |    <
+  |  |\  \----.|  `--'  | |  `----.|  .  \
+  | _| `._____| \______/   \______||__|\__\
+  .______      ___      .______    _______ .______
+  |   _  \    /   \     |   _  \  |   ____||   _  \
+  |  |_)  |  /  ^  \    |  |_)  | |  |__   |  |_)  |
+  |   ___/  /  /_\  \   |   ___/  |   __|  |      /
+  |  |     /  _____  \  |  |      |  |____ |  |\  \----.
+  | _|    /__/     \__\ | _|      |_______|| _| `._____|
+       _______.  ______  __       _______.     _______.  ______   .______          _______.
+      /       | /      ||  |     /       |    /       | /  __  \  |   _  \        /       |
+     |   (----`|  ,----'|  |    |   (----`   |   (----`|  |  |  | |  |_)  |      |   (----`
+      \   \    |  |     |  |     \   \        \   \    |  |  |  | |      /        \   \
+  .----)   |   |  `----.|  | .----)   |   .----)   |   |  `--'  | |  |\  \----.----)   |
+  |_______/ __  \______||__| |_______/  ._|_______/   __\______/  | _| `._____|_______/
+  |  |     |  | |       /     /   \     |   _  \     |       \
+  |  |     |  | `---/  /     /  ^  \    |  |_)  |    |  .--.  |
+  |  |     |  |    /  /     /  /_\  \   |      /     |  |  |  |
+  |  `----.|  |   /  /----./  _____  \  |  |\  \----.|  '--'  |
+  |_______||__|  /________/__/     \__\ | _| `._____||_______/
+       _______..______     ______     ______  __  ___
+      /       ||   _  \   /  __  \   /      ||  |/  /
+     |   (----`|  |_)  | |  |  |  | |  ,----'|  '  /
+      \   \    |   ___/  |  |  |  | |  |     |    <
+  .----)   |   |  |      |  `--'  | |  `----.|  .  \
+  |_______/    | _|       \______/   \______||__|\__\
+
+rules: |
+  _________________________________________________
+  |      MOVES      |           RULES             |
+  |-----------------+-----------------------------|
+  |                 | SCISSORS cuts PAPER         |
+  |                 | PAPER covers ROCK           |
+  | R -> ROCK       | ROCK crushes LIZARD         |
+  | P -> PAPER      | LIZARD poisons SPOCK        |
+  | X -> SCISSORS   | SPOCK smashes SCISSORS      |
+  | L -> LIZARD     | SCISSORS decapitates LIZARD |
+  | S -> SPOCK      | LIZARD eats PAPER           |
+  |                 | PAPER disproves SPOCK       |
+  |                 | SPOCK vaporizes ROCK        |
+  |                 | ROCK crushes SCISSORS       |
+  |_________________|_____________________________|
+  
+opponents: |
+  _____________________
+  |     OPPONENTS     |
+  |-------------------|
+  | (a) DARTH TYRANUS |
+  |                   |
+  | (b) DARTH MAUL    |
+  |                   |
+  | (c) DARTH VADER   |
+  |                   |
+  | (d) DARTH SIDIOUS |
+  |___________________|
+  
+  

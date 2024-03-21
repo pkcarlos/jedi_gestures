@@ -15,7 +15,7 @@ Welcome to the cosmic arena of **Gestures of the Jedi**, a command line [Rock, P
 3. Run the game file: `ruby main_game.rb`
 
 ## How to Play
-- Upon starting the game, follow the on-screen prompts to choose your opponent and begin the duel. 
+- Once you start the game, follow the on-screen prompts to choose your opponent and begin the duel. 
 - Select your move based on your strategy and the opponent's actions. 
 - Defeat your opponent to advance to the next round.
 - First player to win 3 rounds, wins the game!
